@@ -1,0 +1,1945 @@
+[ {
+  "firstId" : 34,
+  "secondId" : 33,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Conoscenza ",
+  "secondPhrase" : "Presentazione del corso ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "34-33-0"
+}, {
+  "firstId" : 33,
+  "secondId" : 34,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Presentazione del corso ",
+  "secondPhrase" : "Conoscenza ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "33-34-0"
+}, {
+  "firstId" : 1352,
+  "secondId" : 1353,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Scrambled Code si serve ",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1352-1353-2"
+}, {
+  "firstId" : 1352,
+  "secondId" : 1353,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Scrambled Code si serve ",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1352-1353-2"
+}, {
+  "firstId" : 34,
+  "secondId" : 33,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Conoscenza ",
+  "secondPhrase" : "Presentazione del corso ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "34-33-0"
+}, {
+  "firstId" : 33,
+  "secondId" : 34,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Programmazione C++",
+  "secondPhrase" : "Su cosa si basa la programmazione",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "33-34-1"
+}, {
+  "firstId" : 33,
+  "secondId" : 34,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Nessuna ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "33-34-2"
+}, {
+  "firstId" : 1353,
+  "secondId" : 1352,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Lo ?Scrambled code? è utile ",
+  "secondPhrase" : "Esercizio con i dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1353-1352-0"
+}, {
+  "firstId" : 1353,
+  "secondId" : 1352,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Gli esercizi ",
+  "secondPhrase" : "Le duble",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1353-1352-1"
+}, {
+  "firstId" : 1352,
+  "secondId" : 1353,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Scrambled Code si serve ",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1352-1353-2"
+}, {
+  "firstId" : 1391,
+  "secondId" : 1392,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Scrittura di un algoritmo partendo da un codice parzialmente giá scritto",
+  "secondPhrase" : "Esercizio con dizionario",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1391-1392-0"
+}, {
+  "firstId" : 1392,
+  "secondId" : 1391,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Per me è molto utile lo scrambled code.",
+  "secondPhrase" : "Algoritmi con liste e dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1392-1391-1"
+}, {
+  "firstId" : 1392,
+  "secondId" : 1391,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Nessuna",
+  "secondPhrase" : "Nessuno",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1392-1391-2"
+}, {
+  "firstId" : 885,
+  "secondId" : 884,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "cicli con while",
+  "secondPhrase" : "Ciclo ",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "885-884-0"
+}, {
+  "firstId" : 885,
+  "secondId" : 884,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "i cicli con while e tutte le funzioni studiate",
+  "secondPhrase" : "Ciclo",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "885-884-1"
+}, {
+  "firstId" : 885,
+  "secondId" : 884,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "tutto sufficientemente chiaro",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "885-884-2"
+}, {
+  "firstId" : 611,
+  "secondId" : 610,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Sintassi e semantica in Python",
+  "secondPhrase" : "Tipi di variabili nel linguaggio Python",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "611-610-0"
+}, {
+  "firstId" : 611,
+  "secondId" : 610,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Float, numeri interi e stringhe ",
+  "secondPhrase" : "Operazioni  tra variabili ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "611-610-1"
+}, {
+  "firstId" : 610,
+  "secondId" : 611,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Nessuna ",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "610-611-2"
+}, {
+  "firstId" : 838,
+  "secondId" : 837,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "cicli",
+  "secondPhrase" : "Ciclo While, esercizi ed errori",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "838-837-0"
+}, {
+  "firstId" : 837,
+  "secondId" : 838,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Esercizi",
+  "secondPhrase" : "i cicli",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "837-838-1"
+}, {
+  "firstId" : 838,
+  "secondId" : 837,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "l'ultimo esercizio",
+  "secondPhrase" : "Esercizi",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "838-837-2"
+}, {
+  "firstId" : 1295,
+  "secondId" : 1294,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Duplicazione liste, Creazioni di insiemi e dizionari ",
+  "secondPhrase" : "Insiemi; dizionari che sono insiemi di chiavi e valori",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1295-1294-0"
+}, {
+  "firstId" : 1294,
+  "secondId" : 1295,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "le applicazioni di unione intersezione e differenza sugli insiemi",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1294-1295-1"
+}, {
+  "firstId" : 1294,
+  "secondId" : 1295,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "come si genera una nuova posizione negli insiemi",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1294-1295-2"
+}, {
+  "firstId" : 1387,
+  "secondId" : 1386,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Tuple, esercizi",
+  "secondPhrase" : "eserzizio con uno dizionario",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1387-1386-0"
+}, {
+  "firstId" : 1387,
+  "secondId" : 1386,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Tuple",
+  "secondPhrase" : "Ho trovato postivo il metodo dello scrambled code poichè la mia grande difficoltà è capire cosa fare quando mi trovo davanti il testo dell'esercizio e la maggior parte delle volte sbaglio la risoluzione",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1387-1386-1"
+}, {
+  "firstId" : 1386,
+  "secondId" : 1387,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "lezione un pò pesante",
+  "secondPhrase" : "Le tuple cosa sono di preciso e come si possono usare",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1386-1387-2"
+}, {
+  "firstId" : 653,
+  "secondId" : 652,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Come usare una variabile ",
+  "secondPhrase" : "Variabili, errori e convenzioni nel linguaggio di Python con definizione di stringa",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "653-652-0"
+}, {
+  "firstId" : 653,
+  "secondId" : 652,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Le stringhe ",
+  "secondPhrase" : "come scrivere un codice",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "653-652-1"
+}, {
+  "firstId" : 653,
+  "secondId" : 652,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Nessuna ",
+  "secondPhrase" : "la forma in cui sono trascritti gli input negli spazi di memoria",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "653-652-2"
+}, {
+  "firstId" : 399,
+  "secondId" : 400,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "complessità degli algoritimi ",
+  "secondPhrase" : "Algoritmo",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "399-400-0"
+}, {
+  "firstId" : 400,
+  "secondId" : 399,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Somma",
+  "secondPhrase" : "i diversi tipi di algoritmi ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "400-399-1"
+}, {
+  "firstId" : 400,
+  "secondId" : 399,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Trovare la complessità",
+  "secondPhrase" : "quale tra metodo del pallottoliere e normale sia più complesso",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "400-399-2"
+}, {
+  "firstId" : 602,
+  "secondId" : 603,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Variabili in python",
+  "secondPhrase" : "Imparare alcuni comandi e linguaggi di phyton",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "602-603-0"
+}, {
+  "firstId" : 603,
+  "secondId" : 602,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Imparare le operazioni tra interi e reali",
+  "secondPhrase" : "Stringhe",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "603-602-1"
+}, {
+  "firstId" : 602,
+  "secondId" : 603,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Nessuna",
+  "secondPhrase" : "Tutto abbastanza chiaro",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "602-603-2"
+}, {
+  "firstId" : 630,
+  "secondId" : 629,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Iniziare a usare python",
+  "secondPhrase" : "Tipo di Variabili reali float stringhe e usarle",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "630-629-0"
+}, {
+  "firstId" : 630,
+  "secondId" : 629,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Variabili in python",
+  "secondPhrase" : "I vari tipi di variabili ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "630-629-1"
+}, {
+  "firstId" : 629,
+  "secondId" : 630,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Come si rappresentano i reali ",
+  "secondPhrase" : "/",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "629-630-2"
+}, {
+  "firstId" : 556,
+  "secondId" : 555,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La rappresentazione ",
+  "secondPhrase" : "Rappresentazione",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "556-555-0"
+}, {
+  "firstId" : 556,
+  "secondId" : 555,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "La somma dei numeri binari",
+  "secondPhrase" : "Sistema binario",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "556-555-1"
+}, {
+  "firstId" : 556,
+  "secondId" : 555,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "La somma in colonna",
+  "secondPhrase" : "Somma del sistema binario",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "556-555-2"
+}, {
+  "firstId" : 156,
+  "secondId" : 155,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Introduzione all?informatica ",
+  "secondPhrase" : "è stata una lezione volta a stimolare la nostra curiosità verso la materia",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "156-155-0"
+}, {
+  "firstId" : 155,
+  "secondId" : 154,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Il lavoro svolto in piccoli gruppi",
+  "secondPhrase" : "Programmazione",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "155-154-1"
+}, {
+  "firstId" : 155,
+  "secondId" : 156,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "come sarà verbalizzato il voto finale dopo aver superato sia la parte da 6 crediti che quella da 3",
+  "secondPhrase" : "Niente",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "155-156-2"
+}, {
+  "firstId" : 295,
+  "secondId" : 296,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "istruzioni",
+  "secondPhrase" : "Variabili matematica Vs variabili informatiche (spazi di memoria)\nDefinizione di algoritmo ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "295-296-0"
+}, {
+  "firstId" : 295,
+  "secondId" : 296,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "algoritmi",
+  "secondPhrase" : "Imparare a scrivere gli algoritmi",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "295-296-1"
+}, {
+  "firstId" : 296,
+  "secondId" : 295,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Non ce ne sono state",
+  "secondPhrase" : "nessuna",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "296-295-2"
+}, {
+  "firstId" : 1109,
+  "secondId" : 1110,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "definire le funzioni ",
+  "secondPhrase" : "Concetto di funzioni",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "1109-1110-0"
+}, {
+  "firstId" : 1109,
+  "secondId" : 1110,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "gli esempi oggi sono stati più chiari ",
+  "secondPhrase" : "Come definire una nuova funzione ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1109-1110-1"
+}, {
+  "firstId" : 1109,
+  "secondId" : 1110,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Quando una variabile può assumere lo stesso nome di una funzione che abbiamo definito ",
+  "secondPhrase" : "Esercizio finale ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1109-1110-2"
+}, {
+  "firstId" : 239,
+  "secondId" : 240,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "L?algoritmo è una sequenza ordintata di operazioni",
+  "secondPhrase" : "X in informatica non è incognita, ma memoria ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "239-240-0"
+}, {
+  "firstId" : 239,
+  "secondId" : 240,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "L?algoritmo, come possiamo crearne uno",
+  "secondPhrase" : "Algoritmi",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "239-240-1"
+}, {
+  "firstId" : 239,
+  "secondId" : 240,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Nessuna",
+  "secondPhrase" : "Niente",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "239-240-2"
+}, {
+  "firstId" : 479,
+  "secondId" : 478,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Numeri binari",
+  "secondPhrase" : "Si",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "479-478-0"
+}, {
+  "firstId" : 478,
+  "secondId" : 479,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "No, tutto ok",
+  "secondPhrase" : "Somma di numeri binari ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "478-479-1"
+}, {
+  "firstId" : 478,
+  "secondId" : 479,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Wow finalmente una lezione in cui mi è tutto chiaro, gg",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "478-479-2"
+}, {
+  "firstId" : 943,
+  "secondId" : 944,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Logica, dimostrazioni, CPU",
+  "secondPhrase" : "logica e dimostrazioni\n",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "943-944-0"
+}, {
+  "firstId" : 944,
+  "secondId" : 943,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "logica",
+  "secondPhrase" : "Logica",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "944-943-1"
+}, {
+  "firstId" : 943,
+  "secondId" : 944,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Nessuna",
+  "secondPhrase" : "bit \n",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "943-944-2"
+}, {
+  "firstId" : 1280,
+  "secondId" : 1279,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "Sistema operativo ",
+  "secondPhrase" : "Conoscere e comprendere la costruzione ed il funzionamento del calcolatore e dei suoi componenti",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1280-1279-0"
+}, {
+  "firstId" : 1280,
+  "secondId" : 1279,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Capire come funziona la macchina ",
+  "secondPhrase" : "Funzionamente della CPU e gestione della memoria",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1280-1279-1"
+}, {
+  "firstId" : 1280,
+  "secondId" : 1279,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "Come funziona la macchina ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1280-1279-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1300,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Slicing delle liste, insiemi e dizionario",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1300-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1300,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "L'applicazione del dizionario",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1300-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1300,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1300-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1301,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1301-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1301,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "La differenza tra lista e dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1301-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1301,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "La parte sul set",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1301-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1302,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Duplicazione insiemi e dizionari",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "1291-1302-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1302,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Insiemi",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1302-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1302,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Duplicazione",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1302-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1303,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Operazioni con le liste e insiemi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1303-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1303,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Esercizi sugli insiemi",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "1291-1303-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1303,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Differenza tra insiemi ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1303-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1304,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi, dizionari ",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "1291-1304-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1304,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1304-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1304,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "L?esercizio def diff ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1304-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1305,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "1291-1305-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1305,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1305-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1305,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Alcuni comandi per gli Insiemi ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1305-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1306,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "1291-1306-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1306,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "i set",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1306-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1306,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1306-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1307,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Dizionari ed Insiemi ",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1307-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1307,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1307-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1307,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1307-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1308,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "dizionari e insiemi ",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1308-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1308,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "insiemi",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1308-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1308,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1308-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1309,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "liste insiemi dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1309-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1309,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "l'utilizzo dei dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1309-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1309,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "la conversione da insieme a lista",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1309-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1310,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi, liste, dizionario",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1310-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1310,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Insiemi",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1310-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1310,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1310-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1311,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Parentesi quadra: liste che sono ordinate;graffe: insieme non ordinati. Duplicare le varie liste. Come aggiungere numeri negli insiemi. Intersezione, differenza e dizionario.",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1311-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1311,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Insiemi",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1311-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1311,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Ultimo esempio non capisco perchè  dopo l'insieme se scrivo rubrica [\"dario\"] non ottengo il valore della graffa",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1311-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1312,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1312-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1312,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Utilizzo insiemi ",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "1291-1312-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1312,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "-",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1312-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1313,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "ripasso sullo slicing, insiemi e dizionari",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "1291-1313-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1313,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "i dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1313-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1313,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1313-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1314,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e dizionari ",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1314-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1314,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Duplicare le liste ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1314-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1314,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1314-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1315,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e dizionario",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1315-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1315,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Dizionario",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1315-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1315,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Niente",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1315-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1316,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insieme, dizionari, liste",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "1291-1316-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1316,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Tutte e tre ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1316-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1316,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Funzioni ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1316-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1317,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e Dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1317-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1317,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Utilizzo dei dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1317-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1317,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nulla, credo",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "1291-1317-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1318,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Come duplicare le varie liste, gli insiemi e  il dizionario",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1318-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1318,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "I dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1318-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1318,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Come non far mutare una lista",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1318-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1319,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e chiavi ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1319-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1319,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1319-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1319,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Funzionamento di una chiave (oltre il fatto che associa più elementi)",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1319-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1320,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Dizionari insiemi ",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1320-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1320,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1320-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1320,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1320-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1321,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1321-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1321,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "I dizionari e le chiavi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1321-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1321,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "La soluzione migliore per la differenza tra insiemi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1321-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1322,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Liste, insiemi, unione, intersezione, differenza e dizionari ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1322-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1322,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "I dizionari e come funzionano ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1322-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1322,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "La differenza ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1322-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1323,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1323-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1323,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Insiemi e dizionari ",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "1291-1323-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1323,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1323-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1324,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi, unire insiemi, duplicare liste",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1324-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1324,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Insiemi",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1324-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1324,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Operatore diff",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1324-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1325,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1325-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1325,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1325-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1325,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1325-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1326,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1326-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1326,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1326-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1326,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Come modificare (aggiungere, togliere, o modificare) elementi di un dizionario",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1326-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1327,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Spiegare insiemi e dizionari e capire come duplicare le liste",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "1291-1327-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1327,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "I dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1327-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1327,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nulla",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1327-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1328,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Definizione insiemi e dizionario",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1328-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1328,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Dizionari, \"chiavi\" ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1328-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1328,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "L'esercizio sugli insieme per la funzione differenza",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1328-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1329,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Introduzione duplicazione lista e insiemi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1329-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1329,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Insiemi",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1329-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1329,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Differenza tra insiemi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1329-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1330,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1330-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1330,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Gli insieme, la loro unione e intersezione ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1330-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1330,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "I dizionari\n",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1330-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1331,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "desrizione insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1331-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1331,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Come sfruttarli insieme alle funzioni ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1331-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1331,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Niente ",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1331-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1332,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Liste e insiemi, dizionari",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1332-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1332,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Creare differenti dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1332-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1332,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Definizione della funzione sottrazione",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1332-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1333,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Gli insiemi",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1333-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1333,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Gli insiemi",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1333-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1333,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Niente",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1333-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1334,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Gli insiemi e i dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1334-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1334,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "I metodi degli insiemi e dei dizionari",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1334-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1334,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1334-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1335,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1335-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1335,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Intersezione e Unione ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1335-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1335,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1335-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1336,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Insiemi, dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1291-1336-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1336,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "/",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1336-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1336,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "/",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1336-2"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1406,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "concetto di insieme e dizionario ",
+  "secondPhrase" : "Dizionari insiemi ",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1291-1406-0"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1406,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "insiemi ",
+  "secondPhrase" : "Dizionari ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1291-1406-1"
+}, {
+  "firstId" : 1291,
+  "secondId" : 1406,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "nessuna ",
+  "secondPhrase" : "Nessuna ",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1291-1406-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1294,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi; dizionari che sono insiemi di chiavi e valori",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1294-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1294,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "le applicazioni di unione intersezione e differenza sugli insiemi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1294-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1294,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "come si genera una nuova posizione negli insiemi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1294-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1295,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Duplicazione liste, Creazioni di insiemi e dizionari ",
+  "voto" : 6,
+  "annotatore" : "Dente",
+  "id" : "1292-1295-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1295,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1295-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1295,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1295-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1296,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1292-1296-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1296,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "Tutti",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1296-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1296,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Nessuno",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1296-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1297,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi, operazioni sugli insiemi  e duplicare una lista ",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1292-1297-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1297,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "Operazioni tra insiemi ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1297-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1297,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Nessuno",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1297-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1298,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Cosa sono gli insieme e i dizionari",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1292-1298-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1298,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "I dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1298-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1298,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1298-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1299,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi e relative operazioni, dizionari. Esempi",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1292-1299-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1299,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "Esempi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1299-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1299,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Operazione di intersezione",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1299-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1300,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Slicing delle liste, insiemi e dizionario",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1292-1300-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1300,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "L'applicazione del dizionario",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1300-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1300,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Nessuna",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1300-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1301,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1292-1301-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1301,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "La differenza tra lista e dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1301-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1301,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "La parte sul set",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1301-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1302,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Duplicazione insiemi e dizionari",
+  "voto" : 5,
+  "annotatore" : "Dente",
+  "id" : "1292-1302-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1302,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "Insiemi",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1302-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1302,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Duplicazione",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1302-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1303,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Operazioni con le liste e insiemi",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1292-1303-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1303,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "Esercizi sugli insiemi",
+  "voto" : 2,
+  "annotatore" : "Dente",
+  "id" : "1292-1303-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1303,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Differenza tra insiemi ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1303-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1304,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi, dizionari ",
+  "voto" : 3,
+  "annotatore" : "Dente",
+  "id" : "1292-1304-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1304,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1304-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1304,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "L?esercizio def diff ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1304-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1305,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 4,
+  "annotatore" : "Dente",
+  "id" : "1292-1305-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1305,
+  "column" : "Argomento più interessante",
+  "firstPhrase" : "Vorrei fare ancora tanti esercizi ",
+  "secondPhrase" : "Dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1305-1"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1305,
+  "column" : "Argomento meno chiaro",
+  "firstPhrase" : "È stato chiaro ma vorrei fare esercizi ",
+  "secondPhrase" : "Alcuni comandi per gli Insiemi ",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1305-2"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1305,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1305-0"
+}, {
+  "firstId" : 1292,
+  "secondId" : 1305,
+  "column" : "Messaggio docente",
+  "firstPhrase" : "La duplicazione delle liste, insiemi e dizionari",
+  "secondPhrase" : "Insiemi e dizionari",
+  "voto" : 1,
+  "annotatore" : "Dente",
+  "id" : "1292-1305-0"
+} ]
